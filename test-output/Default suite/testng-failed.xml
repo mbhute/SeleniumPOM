@@ -5,9 +5,8 @@
     <classes>
       <class name="Tests.LoginTests">
         <methods>
-          <include name="Screenshot"/>
           <include name="set1"/>
-          <include name="execute"/>
+          <include name="runshot"/>
         </methods>
       </class> <!-- Tests.LoginTests -->
     </classes>
